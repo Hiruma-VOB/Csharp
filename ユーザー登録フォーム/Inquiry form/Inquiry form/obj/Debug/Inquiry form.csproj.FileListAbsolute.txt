@@ -1,0 +1,22 @@
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\bin\Debug\Inquiry form.exe.config
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\bin\Debug\Inquiry form.exe
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\bin\Debug\Inquiry form.pdb
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csprojAssemblyReference.cache
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Form1.resources
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Properties.Resources.resources
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csproj.GenerateResource.cache
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csproj.CoreCompileInputs.cache
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry form.exe
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry form.pdb
+C:\Users\hirum\Desktop\C#\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Form2.resources
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\bin\Debug\Inquiry form.exe.config
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\bin\Debug\Inquiry form.exe
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\bin\Debug\Inquiry form.pdb
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csprojAssemblyReference.cache
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Form1.resources
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Form2.resources
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry_form.Properties.Resources.resources
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csproj.GenerateResource.cache
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry form.csproj.CoreCompileInputs.cache
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry form.exe
+C:\Users\hirum\Desktop\C#\蛭間\ユーザー登録フォーム\Inquiry form\Inquiry form\obj\Debug\Inquiry form.pdb
